@@ -9,17 +9,13 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I HAVE BEEN LEARNING HOW TO PROGRAM BY INDIAN TUTORIALS</h2></summary>
+    <summary><h2 style="display: inline-block">Programming issues that can be solved.</h2></summary>
   </ul>
 </div>
 
@@ -60,11 +56,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=K1ng0hat&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+
 <!--- trophy (start) -->
 
 
