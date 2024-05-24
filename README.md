@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">I'm Adrian 😁👍 </h1></summary>
+    <summary><h1 style="display: inline-block">Adrian phpero 🧢😁👍 </h1></summary>
   </ul>
 </div>
 
@@ -15,7 +15,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Programming issues that can be solved.</h2></summary>
+    <summary><h2 style="display: inline-block">php de la cuna al ataud.</h2></summary>
   </ul>
 </div>
 
@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,laravel,mysql,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,php,css,github,html,js,laravel,mysql,vscode,androidstudio,dart&perline=14" />
   </a>
 </p>
 
