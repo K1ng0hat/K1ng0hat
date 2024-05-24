@@ -32,7 +32,8 @@
 - 👌 Don't hesitate to drop me a **👋** on Discord –  [akadrian](https://discordapp.com/users/akadrian._) my username.
 <!--Intro end-->
 
-
+<br>
+<br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
