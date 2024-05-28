@@ -20,11 +20,8 @@
 
 - 🌱 I’m currently learning **how to develope an app on Android.**
 
-- 💬 Ask me about **PHP, MySQL, Laravel, Dart & Flutter.**
-
 - 📫 Feel free to reach me out **zzzadrian@outlook.com** (public mail).
 
-- 👌 Don't hesitate to drop me a **👋** on Discord –  [akadrian](https://discordapp.com/users/akadrian._) my username.
 <!--Intro end-->
 
 <br>
@@ -68,50 +65,23 @@
 </div>
 
 <!--front-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">👀 FrontEnd</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
 <p align="center">
+  <h2>⭐ Front End</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,flutter&perline=14" />
   </a>
-</p>
-<!--backend-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🔙 Backend </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+
+  <h2>⛈️ Back End</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,cs,dart&perline=14" />
   </a>
-</p>
 
-<!--backend-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">📚 DB </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+  <h2>📚 DB</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=14" />
   </a>
-</p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">⚙️ Tools </h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+  <h2>⚙️ Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=14" />
   </a>
