@@ -66,25 +66,56 @@
     <summary><h2 style="display: inline-block">Technologies That I Know 😶‍🌫️</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,js,php,laravel,dart,mysql,sqlite,vscode,androidstudio&perline=14" />
-  </a>
-</p>
 
+<!--front-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 😶‍🌫️</h2></summary>
+    <summary><h2 style="display: inline-block">👀 FrontEnd</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,js,php,laravel,dart,mysql,sqlite,vscode,androidstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,flutter&perline=14" />
+  </a>
+</p>
+<!--backend-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🔙 Backend </h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dart&perline=14" />
   </a>
 </p>
 
+<!--backend-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📚 DB </h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=14" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">⚙️ Tools </h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=14" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
