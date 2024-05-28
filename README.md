@@ -73,6 +73,18 @@
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 😶‍🌫️</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,js,php,laravel,dart,mysql,sqlite,vscode,androidstudio&perline=14" />
+  </a>
+</p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
