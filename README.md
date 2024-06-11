@@ -16,9 +16,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, Dart and Flutter.**
+- 🔭 I’m currently working on **Laravel.**
 
-- 🌱 I’m currently learning **how to develope an app on Android.**
+- 🌱 I’m currentlydelving deeper on **Laravel enviroment.**
 
 - 📫 Feel free to reach me out **zzzadrian@outlook.com** (public mail).
 
