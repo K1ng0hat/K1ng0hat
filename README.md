@@ -18,7 +18,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Laravel.**
 
-- 🌱 I’m currentlydelving deeper on **Laravel enviroment.**
+- 🌱 I’m currently delving deeper on **Laravel enviroment.**
 
 - 📫 Feel free to reach me out **zzzadrian@outlook.com** (public mail).
 
