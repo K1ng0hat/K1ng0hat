@@ -83,7 +83,7 @@
 
   <h2>⚙️ Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm&perline=14" />
   </a>
 </p>
 
