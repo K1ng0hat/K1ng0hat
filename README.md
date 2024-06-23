@@ -15,7 +15,7 @@
 
 
 
-<!--Intro start-->
+<!--Intro starta-->
 - 🔭 I’m currently working on **Laravel.**
 
 - 🌱 I’m currently delving deeper on **Laravel enviroment.**
