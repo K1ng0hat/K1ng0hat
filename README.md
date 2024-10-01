@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently delving deeper on **Laravel enviroment.**
 
-- 📫 Feel free to reach me out **adrianmolanonavarro@gmail.com* (public mail).
+- 📫 Feel free to reach me out *adrianmolanonavarro@gmail.com* (public mail).
 
 <!--Intro end-->
 
