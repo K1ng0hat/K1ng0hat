@@ -16,7 +16,7 @@
 
 
 <!--Intro starta-->
-- 🔭 I’m currently working on **Laravel.**
+- 🔭 I’m currently working on **Laravel, Vue.js, js, Java.**
 
 - 🌱 I’m currently delving deeper on **Laravel enviroment.**
 
